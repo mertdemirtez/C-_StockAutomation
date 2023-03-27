@@ -3,8 +3,10 @@
 ᴄᴏᴍᴘᴜᴛᴇʀ ᴇɴɢɪɴᴇᴇʀɪɴɢ 𝟸ɴᴅ ʏᴇᴀʀ ᴇɴᴅ ᴏғ ᴛᴇʀᴍ ᴘʀᴏᴊᴇᴄᴛ
  
 ⭐ This GitHub repository contains some of the projects that I worked on when I was a sophomore computer engineering student. ⭐
+
+⭐ This project was developed in approximately 1 hour. ⭐
  
- ⭐ You can also contribute to and support this project. Have a nice day, everyone! ⭐
+⭐ You can also contribute to and support this project. Have a nice day, everyone! ⭐
  
  ![Ekran görüntüsü 2023-03-26 231704](https://user-images.githubusercontent.com/101717064/227802337-22dfc67d-0583-432b-bf61-a7ee81863d0e.png)
 
@@ -16,7 +18,7 @@
 
 
 # 🅲🅾🅽🆃🅰🅲🆃 🅵🅾🆁 🅼🅴
--My personal website is: www.mertdemir.rf.gd
+-My personal website is: www.mertdemirtez.com
 - 
 -My LinkedIn profile is: https://www.linkedin.com/in/mertdemirtez/
 -
