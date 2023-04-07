@@ -1,0 +1,39 @@
+C:\Users\mertd\Desktop\Yeşim Hoca İşletim Sistemleri Projesi\Stok Otomasyonu\Stok Otomasyonu\bin\Debug\Stok Otomasyonu.exe.config
+C:\Users\mertd\Desktop\Yeşim Hoca İşletim Sistemleri Projesi\Stok Otomasyonu\Stok Otomasyonu\bin\Debug\Stok Otomasyonu.exe
+C:\Users\mertd\Desktop\Yeşim Hoca İşletim Sistemleri Projesi\Stok Otomasyonu\Stok Otomasyonu\bin\Debug\Stok Otomasyonu.pdb
+C:\Users\mertd\Desktop\Yeşim Hoca İşletim Sistemleri Projesi\Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\mertd\Desktop\Yeşim Hoca İşletim Sistemleri Projesi\Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\mertd\Desktop\Yeşim Hoca İşletim Sistemleri Projesi\Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok_Otomasyonu.Form1.resources
+C:\Users\mertd\Desktop\Yeşim Hoca İşletim Sistemleri Projesi\Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok_Otomasyonu.Properties.Resources.resources
+C:\Users\mertd\Desktop\Yeşim Hoca İşletim Sistemleri Projesi\Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok Otomasyonu.csproj.GenerateResource.cache
+C:\Users\mertd\Desktop\Yeşim Hoca İşletim Sistemleri Projesi\Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\mertd\Desktop\Yeşim Hoca İşletim Sistemleri Projesi\Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok Otomasyonu.exe
+C:\Users\mertd\Desktop\Yeşim Hoca İşletim Sistemleri Projesi\Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok Otomasyonu.pdb
+C:\Users\mertd\Desktop\Yeşim Hoca İşletim Sistemleri Projesi\Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok_Otomasyonu.Form2.resources
+C:\Users\mertd\Desktop\Yeşim Hoca İşletim Sistemleri Projesi\Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok_Otomasyonu.Form3.resources
+C:\Users\mertd\OneDrive\Masaüstü\Evraklar\Yeşim Hoca İşletim Sistemleri Ödevi\C# Stok Otomasyonu\Stok Otomasyonu\bin\Debug\Stok Otomasyonu.exe.config
+C:\Users\mertd\OneDrive\Masaüstü\Evraklar\Yeşim Hoca İşletim Sistemleri Ödevi\C# Stok Otomasyonu\Stok Otomasyonu\bin\Debug\Stok Otomasyonu.exe
+C:\Users\mertd\OneDrive\Masaüstü\Evraklar\Yeşim Hoca İşletim Sistemleri Ödevi\C# Stok Otomasyonu\Stok Otomasyonu\bin\Debug\Stok Otomasyonu.pdb
+C:\Users\mertd\OneDrive\Masaüstü\Evraklar\Yeşim Hoca İşletim Sistemleri Ödevi\C# Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\mertd\OneDrive\Masaüstü\Evraklar\Yeşim Hoca İşletim Sistemleri Ödevi\C# Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\mertd\OneDrive\Masaüstü\Evraklar\Yeşim Hoca İşletim Sistemleri Ödevi\C# Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok_Otomasyonu.Form1.resources
+C:\Users\mertd\OneDrive\Masaüstü\Evraklar\Yeşim Hoca İşletim Sistemleri Ödevi\C# Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok_Otomasyonu.Form2.resources
+C:\Users\mertd\OneDrive\Masaüstü\Evraklar\Yeşim Hoca İşletim Sistemleri Ödevi\C# Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok_Otomasyonu.Form3.resources
+C:\Users\mertd\OneDrive\Masaüstü\Evraklar\Yeşim Hoca İşletim Sistemleri Ödevi\C# Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok_Otomasyonu.Properties.Resources.resources
+C:\Users\mertd\OneDrive\Masaüstü\Evraklar\Yeşim Hoca İşletim Sistemleri Ödevi\C# Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok Otomasyonu.csproj.GenerateResource.cache
+C:\Users\mertd\OneDrive\Masaüstü\Evraklar\Yeşim Hoca İşletim Sistemleri Ödevi\C# Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\mertd\OneDrive\Masaüstü\Evraklar\Yeşim Hoca İşletim Sistemleri Ödevi\C# Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok Otomasyonu.exe
+C:\Users\mertd\OneDrive\Masaüstü\Evraklar\Yeşim Hoca İşletim Sistemleri Ödevi\C# Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok Otomasyonu.pdb
+C:\Users\mertd\Downloads\StockAutomation_SRC-main\StockAutomation_SRC-main\Stok Otomasyonu\bin\Debug\Stok Otomasyonu.exe.config
+C:\Users\mertd\Downloads\StockAutomation_SRC-main\StockAutomation_SRC-main\Stok Otomasyonu\bin\Debug\Stok Otomasyonu.exe
+C:\Users\mertd\Downloads\StockAutomation_SRC-main\StockAutomation_SRC-main\Stok Otomasyonu\bin\Debug\Stok Otomasyonu.pdb
+C:\Users\mertd\Downloads\StockAutomation_SRC-main\StockAutomation_SRC-main\Stok Otomasyonu\obj\Debug\Stok Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\mertd\Downloads\StockAutomation_SRC-main\StockAutomation_SRC-main\Stok Otomasyonu\obj\Debug\Stok Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\mertd\Downloads\StockAutomation_SRC-main\StockAutomation_SRC-main\Stok Otomasyonu\obj\Debug\Stok_Otomasyonu.Form1.resources
+C:\Users\mertd\Downloads\StockAutomation_SRC-main\StockAutomation_SRC-main\Stok Otomasyonu\obj\Debug\Stok_Otomasyonu.Form2.resources
+C:\Users\mertd\Downloads\StockAutomation_SRC-main\StockAutomation_SRC-main\Stok Otomasyonu\obj\Debug\Stok_Otomasyonu.Form3.resources
+C:\Users\mertd\Downloads\StockAutomation_SRC-main\StockAutomation_SRC-main\Stok Otomasyonu\obj\Debug\Stok_Otomasyonu.Properties.Resources.resources
+C:\Users\mertd\Downloads\StockAutomation_SRC-main\StockAutomation_SRC-main\Stok Otomasyonu\obj\Debug\Stok Otomasyonu.csproj.GenerateResource.cache
+C:\Users\mertd\Downloads\StockAutomation_SRC-main\StockAutomation_SRC-main\Stok Otomasyonu\obj\Debug\Stok Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\mertd\Downloads\StockAutomation_SRC-main\StockAutomation_SRC-main\Stok Otomasyonu\obj\Debug\Stok Otomasyonu.exe
+C:\Users\mertd\Downloads\StockAutomation_SRC-main\StockAutomation_SRC-main\Stok Otomasyonu\obj\Debug\Stok Otomasyonu.pdb
